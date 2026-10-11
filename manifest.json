@@ -1,0 +1,496 @@
+{
+  "version": "V1.7",
+  "state": "composed and validated",
+  "source_inputs": [
+    {
+      "filename": "雪为何色.mp4",
+      "library_file_id": "libfile_80ac9bdd73648191acc5b0ba50de93d8",
+      "size_bytes": 13163298,
+      "sha256": "db2767ff1c2940be4119919815783bec295fd8123609384323a0b51b00c5d179"
+    },
+    {
+      "filename": "雪为何色_流萤角色替换_V1.3.mp4",
+      "library_file_id": "libfile_67d621f773608191a3d3af7f8b55d283",
+      "size_bytes": 62184444,
+      "sha256": "0c97e617bfce07001fb7816d6ae711d853a7fc6ad26027e9060833dec89fee1a"
+    }
+  ],
+  "visual_master": {
+    "filename": "雪为何色_流萤角色替换_V1.4_画面精修.mp4",
+    "recovered_path": "/workspace/scratch/d66e11180de7/deliverables/雪为何色_流萤角色替换_V1.4_画面精修.mp4",
+    "sha256": "65e4522c68eff64d45e838425243df8a3f2fb4ade0c0077ada21b2947693d5b7",
+    "library_file_id": "libfile_1dbd91a8ef44819191b35dd63b1dd710"
+  },
+  "fps": 30,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "frame_count": 2764,
+  "frame_index_convention": "zero-based, start-inclusive / end-exclusive",
+  "running_original_range": [
+    1110,
+    1304
+  ],
+  "animation_keys": [
+    "a01_start_00.png",
+    "a01_start_01.png",
+    "a01_start_02.png",
+    "a02_eye_00.png",
+    "a02_eye_01.png",
+    "a02_eye_hair02.png",
+    "a03_cocoon_bg_00.png",
+    "a03_cocoon_bg_01.png",
+    "a03_cocoon_bg_02.png",
+    "a04_intro_00.png",
+    "a04_intro_01.png",
+    "a04_intro_02.png",
+    "a05_duo_00.png",
+    "a05_duo_01.png",
+    "a05_duo_02.png",
+    "a06_duoclose_00.png",
+    "a06_duoclose_01.png",
+    "a06_duoclose_02.png",
+    "a07_park_00.png",
+    "a07_park_01.png",
+    "a07_park_02.png",
+    "a08_feet_00.png",
+    "a08_feet_01.png",
+    "a08_feet_02.png",
+    "a09_kisswide_00.png",
+    "a09_kisswide_01.png",
+    "a09_kisswide_02.png",
+    "a09_kisswide_03.png",
+    "a09_kisswide_05.png",
+    "a09_kisswide_06.png",
+    "a09_kisswide_07.png",
+    "a09_kisswide_08.png",
+    "a11_group_00.png",
+    "a11_group_01.png",
+    "a11_group_02.png",
+    "a12_gift_00.png",
+    "a12_gift_01.png",
+    "a13_smile_00.png",
+    "a13_smile_01.png",
+    "a13_smile_02.png",
+    "a14_warm_00.png",
+    "a14_warm_01.png",
+    "a14_warm_02.png",
+    "a15_snowduo_00.png",
+    "a15_snowduo_01.png",
+    "a15_snowduo_02.png",
+    "a16_bright_00.png",
+    "a16_bright_01.png",
+    "a16_bright_02.png",
+    "a17_pendant_00.png",
+    "a17_pendant_01.png",
+    "a17_pendant_02.png",
+    "a18_laugh_00.png",
+    "a18_laugh_01.png",
+    "a18_laugh_02.png",
+    "a19_end_00.png",
+    "a19_end_01.png",
+    "a19_end_02.png",
+    "a19_end_03.png"
+  ],
+  "rotation": "70 frames re-rendered from the existing mesh and textures with revised native cel shader; no prop regeneration",
+  "character_interpolation": "full-canvas keys, bidirectional motion interpolation bounded to 24px at 1080p; faces stabilized",
+  "eye": "always open, no blink keys",
+  "kissing": "Original-like wide/close smooth dissolve over 12 frames, restrained flash, 12-frame dolly settlement",
+  "audio": "original AAC copied, no retiming",
+  "original_work_recovered": "relative project root; source full videos supplied via CLI",
+  "excluded_assets": [
+    "all run_*",
+    "a02_eye_02.png",
+    "a02_eye_03.png"
+  ],
+  "official_prop_reference": "https://toy.bandai.co.jp/ja/item/01_21239/",
+  "color_encoding": {
+    "ycbcr_matrix": "BT.709",
+    "rgb_conversion": "explicit full-range RGB to limited-range BT.709",
+    "audio": "original AAC packet stream copied"
+  },
+  "scene_ranges": [
+    {
+      "scene": "a01_start",
+      "start": 265,
+      "end": 343,
+      "seconds": [
+        8.833333333333334,
+        11.433333333333334
+      ]
+    },
+    {
+      "scene": "a02_eye",
+      "start": 508,
+      "end": 654,
+      "seconds": [
+        16.933333333333334,
+        21.8
+      ]
+    },
+    {
+      "scene": "a03_cocoon_bg",
+      "start": 654,
+      "end": 724,
+      "seconds": [
+        21.8,
+        24.133333333333333
+      ]
+    },
+    {
+      "scene": "a04_intro",
+      "start": 724,
+      "end": 813,
+      "seconds": [
+        24.133333333333333,
+        27.1
+      ]
+    },
+    {
+      "scene": "a05_duo",
+      "start": 813,
+      "end": 880,
+      "seconds": [
+        27.1,
+        29.333333333333332
+      ]
+    },
+    {
+      "scene": "a06_duoclose",
+      "start": 880,
+      "end": 946,
+      "seconds": [
+        29.333333333333332,
+        31.533333333333335
+      ]
+    },
+    {
+      "scene": "a07_park",
+      "start": 983,
+      "end": 1063,
+      "seconds": [
+        32.766666666666666,
+        35.43333333333333
+      ]
+    },
+    {
+      "scene": "a08_feet",
+      "start": 1304,
+      "end": 1342,
+      "seconds": [
+        43.46666666666667,
+        44.733333333333334
+      ]
+    },
+    {
+      "scene": "a09_kisswide",
+      "start": 1342,
+      "end": 1496,
+      "seconds": [
+        44.733333333333334,
+        49.86666666666667
+      ]
+    },
+    {
+      "scene": "a11_group",
+      "start": 1545,
+      "end": 1605,
+      "seconds": [
+        51.5,
+        53.5
+      ]
+    },
+    {
+      "scene": "a12_gift",
+      "start": 1605,
+      "end": 1643,
+      "seconds": [
+        53.5,
+        54.766666666666666
+      ]
+    },
+    {
+      "scene": "a13_smile",
+      "start": 1643,
+      "end": 1697,
+      "seconds": [
+        54.766666666666666,
+        56.56666666666667
+      ]
+    },
+    {
+      "scene": "a14_warm",
+      "start": 1950,
+      "end": 2027,
+      "seconds": [
+        65.0,
+        67.56666666666666
+      ]
+    },
+    {
+      "scene": "a15_snowduo",
+      "start": 2027,
+      "end": 2062,
+      "seconds": [
+        67.56666666666666,
+        68.73333333333333
+      ]
+    },
+    {
+      "scene": "a16_bright",
+      "start": 2062,
+      "end": 2116,
+      "seconds": [
+        68.73333333333333,
+        70.53333333333333
+      ]
+    },
+    {
+      "scene": "a17_pendant",
+      "start": 2116,
+      "end": 2218,
+      "seconds": [
+        70.53333333333333,
+        73.93333333333334
+      ]
+    },
+    {
+      "scene": "a18_laugh",
+      "start": 2218,
+      "end": 2272,
+      "seconds": [
+        73.93333333333334,
+        75.73333333333333
+      ]
+    },
+    {
+      "scene": "a19_end",
+      "start": 2592,
+      "end": 2764,
+      "seconds": [
+        86.4,
+        92.13333333333334
+      ]
+    }
+  ],
+  "parent_version": "V1.6",
+  "base_video": {
+    "filename": "雪为何色_流萤角色替换_V1.6_镜头修订.mp4",
+    "library_file_id": "libfile_f608e721346081919fc7eaa73603730c",
+    "source_library_version": "1"
+  },
+  "revisions": [
+    {
+      "user_time": "0:08",
+      "frames": [
+        265,
+        343
+      ],
+      "change": "Restore complete V1.4 title/logo shot"
+    },
+    {
+      "user_time": "0:21–0:23",
+      "frames": [
+        654,
+        724
+      ],
+      "change": "Reuse SAM Cocoon mesh; cold ambient cel shading, reduced photographic microdetail, translucent wings, alpha correction and restrained bloom"
+    },
+    {
+      "user_time": "0:23–0:24",
+      "frames": [
+        724,
+        813
+      ],
+      "change": "Right-to-left flash and close portrait pull-back, followed by right-side 流萤 name"
+    },
+    {
+      "user_time": "0:32–0:35",
+      "frames": [
+        983,
+        1063
+      ],
+      "change": "Static silhouette and camera, subtitle highlight alone follows original frame clock"
+    },
+    {
+      "user_time": "0:54–0:55",
+      "frames": [
+        1643,
+        1697
+      ],
+      "change": "Character cel enters from left, shrinks, exits right on original shot timing"
+    },
+    {
+      "user_time": "1:08",
+      "frames": [
+        2027,
+        2062
+      ],
+      "change": "Restore all three V1.4 clothing cuts"
+    },
+    {
+      "user_time": "1:14",
+      "frames": [
+        2218,
+        2272
+      ],
+      "change": "Fixed camera and master hand/wrist, preserve surrounding hair motion"
+    }
+  ],
+  "reused_full_scene_keys": 59,
+  "updated_utc": "2026-10-10T19:44:41.203089+00:00",
+  "new_character_assets_this_revision": [
+    "a13_v17_open_master.png",
+    "a13_v17_closed_master.png",
+    "a13_v17_open_extended.png"
+  ],
+  "recovered_image_identities": {
+    "a13_v17_closed_master.png": "libfile_419c5c5345108191b379f34875472402",
+    "a13_v17_open_master.png": "libfile_03fa7eb129f0819183321d71acc9c0a4",
+    "a13_v17_open_extended.png": "libfile_cd21e20a1aa4819185fd6124da936861"
+  },
+  "imagegen_calls_on_resume": 0,
+  "portrait_camera": "Two expressions, calibrated original-frame similarity transforms, original unoccluded floor and empty optical transition; no facial warp",
+  "feet": "Master art and camera fixed throughout frames 1304–1341; lyric progress follows original",
+  "v17_revisions": [
+    {
+      "frames": [
+        1304,
+        1342
+      ],
+      "change": "Static whole feet shot, no illustration interpolation or camera displacement"
+    },
+    {
+      "frames": [
+        1418,
+        1442
+      ],
+      "change": "Wide/close C2 dissolve and subtle settling zoom"
+    },
+    {
+      "frames": [
+        1638,
+        1710
+      ],
+      "change": "Remove premature gift fade; open-eye close-up; flash to closed smile at 1661; measured rightward exit; restore empty floor/optical scene at 1691"
+    }
+  ],
+  "previous_validation_file": "references/history/v16_manifest.json",
+  "original_creation_utc_v16": "2026-10-10T18:57:53.291375+00:00",
+  "new_imagegen_calls_this_v17_revision_before_interruption": 3,
+  "new_imagegen_calls_on_resume": 0,
+  "legacy_unused_character_asset": "a13_exit_cel.png",
+  "validation": {
+    "version": "V1.7",
+    "candidate_filename": "雪为何色_流萤角色替换_V1.7_分镜与运镜精修.mp4",
+    "video": {
+      "width": 1920,
+      "height": 1080,
+      "fps": "30/1",
+      "frame_count": 2764,
+      "duration": 92.133333,
+      "color_space": "bt709"
+    },
+    "inspection": "decoded MP4 side-by-side frame sheets",
+    "visual_review_completed": true,
+    "full_decode_without_errors": true,
+    "original_aac_packets_equal": true,
+    "aac_packet_sha256": "f34dd16208df15e9e5b741ec2a328939682704cb6157cc53d0354d902c903519",
+    "portrait_similarity_transform": {
+      "frames": 48,
+      "max_axis_scale_difference": 0.0,
+      "max_axes_dot_product": 0.0,
+      "open_to_closed_cut_frame": 1661,
+      "original_empty_floor_start_frame": 1691
+    },
+    "static_feet_preencode": {
+      "frames": 38,
+      "max_pixel_change": 0,
+      "region": [
+        0,
+        0,
+        1920,
+        900
+      ]
+    },
+    "static_feet_encoded": {
+      "frames": 38,
+      "max_estimated_translation_pixels": 0.0008346789753037527,
+      "mean_rgb_difference": 0.001047819197226904,
+      "method": "phase correlation and RGB differences on decoded art area; H.264 changes allowed"
+    },
+    "retained_v16_decoded_sample_comparison": {
+      "frames": [
+        0,
+        264,
+        265,
+        300,
+        342,
+        343,
+        508,
+        653,
+        675,
+        719,
+        724,
+        765,
+        812,
+        813,
+        983,
+        1020,
+        1062,
+        1110,
+        1170,
+        1290,
+        1303,
+        1342,
+        1390,
+        1417,
+        1442,
+        1490,
+        1605,
+        1637,
+        1710,
+        1950,
+        2027,
+        2038,
+        2048,
+        2061,
+        2218,
+        2240,
+        2271,
+        2592,
+        2763
+      ],
+      "mean_psnr_db": 48.60124451067447,
+      "min_psnr_db": 40.960625332230066,
+      "mean_absolute_rgb_error": 1.172156107328565,
+      "note": "all 2630 outside-patch frames enter the encoder unchanged; differences are generation-loss encoding"
+    },
+    "comparison_video": {
+      "frames": 314,
+      "seconds": 10.466666666666667,
+      "resolution": [
+        1920,
+        600
+      ],
+      "audio": "muted review",
+      "left": "original MP4",
+      "right": "decoded V1.7 MP4",
+      "half_speed_portrait": true
+    },
+    "visual_findings": {
+      "portrait": "Both the 108-frame preview and final MP4 decoded sheets reviewed; smooth entry without replicated border strips, original flash-cut timing, coherent two-expression painting style, rightward exit, no ghost portrait on empty optical transition",
+      "feet": "All 38 frames show the same art and framing; prior running/title retained through frame 1303",
+      "kiss": "Wide-to-close dissolve reviewed at frames 1417–1445; gentle optical overlap and continuous arrival at existing close-up"
+    }
+  },
+  "retained_v16_frames": 2630,
+  "patched_frames": 134,
+  "output_video": {
+    "filename": "雪为何色_流萤角色替换_V1.7_分镜与运镜精修.mp4",
+    "size_bytes": 92697820,
+    "sha256": "4d141f3f55d1cc00c2adf24ce939f0b4a201316cfc925e261257773b368dcb74"
+  },
+  "resume_reused_keys_byte_identical": 59
+}

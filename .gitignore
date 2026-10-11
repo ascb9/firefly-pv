@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+deps/
+qa/source_frames_v17/
+qa/flows/
+*_video_only.mp4
+inputs/
+.DS_Store

@@ -1,0 +1,21 @@
+{
+  "version": "V1.7",
+  "candidate_filename": "V1.7_54秒修订预览.mp4",
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "frame_count": 108,
+    "duration": 3.6,
+    "color_space": "bt709"
+  },
+  "inspection": "decoded MP4 side-by-side frame sheets",
+  "visual_review_completed": true,
+  "visual_findings": [
+    "Decoded open-eye entry uses the extended painting; no replicated-border strips",
+    "Open/closed cut occurs at original frame 1661",
+    "Closed smile, progressive zoom, slight rotation and right exit follow measured original transforms",
+    "No face stretch or shear",
+    "Frames 1691–1709 reuse the empty original optical transition with no old portrait residue"
+  ]
+}

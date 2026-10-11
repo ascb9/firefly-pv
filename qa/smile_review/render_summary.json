@@ -1,0 +1,37 @@
+{
+  "version": "V1.7",
+  "start": 1614,
+  "stop": 1722,
+  "frames": 108,
+  "fps": 30,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "patched_ranges": [
+    [
+      "static_feet",
+      1304,
+      1342
+    ],
+    [
+      "soft_kiss_push",
+      1418,
+      1442
+    ],
+    [
+      "portrait_rebuild",
+      1638,
+      1710
+    ]
+  ],
+  "counts": {
+    "retained_v16": 36,
+    "gift_cut": 5,
+    "open_portrait": 18,
+    "closed_portrait": 30,
+    "original_optical_exit": 19
+  },
+  "elapsed_seconds": 38.776023756000086,
+  "preview": true
+}

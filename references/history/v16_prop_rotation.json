@@ -1,0 +1,287 @@
+{
+  "renderer": "llvmpipe (LLVM 20.1.2, 256 bits)",
+  "geometry": "front/back height fields and extruded alpha-contour sidewalls",
+  "style": "cold ambient fill, broad cel shading, restrained metallic detail, translucent wings",
+  "poses": [
+    {
+      "frame": 0,
+      "rotation_y_degrees": -18.0
+    },
+    {
+      "frame": 1,
+      "rotation_y_degrees": -15.028985507246377
+    },
+    {
+      "frame": 2,
+      "rotation_y_degrees": -12.057971014492754
+    },
+    {
+      "frame": 3,
+      "rotation_y_degrees": -9.08695652173913
+    },
+    {
+      "frame": 4,
+      "rotation_y_degrees": -6.115942028985508
+    },
+    {
+      "frame": 5,
+      "rotation_y_degrees": -3.1449275362318847
+    },
+    {
+      "frame": 6,
+      "rotation_y_degrees": -0.17391304347826164
+    },
+    {
+      "frame": 7,
+      "rotation_y_degrees": 2.797101449275363
+    },
+    {
+      "frame": 8,
+      "rotation_y_degrees": 5.7681159420289845
+    },
+    {
+      "frame": 9,
+      "rotation_y_degrees": 8.73913043478261
+    },
+    {
+      "frame": 10,
+      "rotation_y_degrees": 11.71014492753623
+    },
+    {
+      "frame": 11,
+      "rotation_y_degrees": 14.681159420289852
+    },
+    {
+      "frame": 12,
+      "rotation_y_degrees": 17.652173913043477
+    },
+    {
+      "frame": 13,
+      "rotation_y_degrees": 20.6231884057971
+    },
+    {
+      "frame": 14,
+      "rotation_y_degrees": 23.594202898550726
+    },
+    {
+      "frame": 15,
+      "rotation_y_degrees": 26.56521739130435
+    },
+    {
+      "frame": 16,
+      "rotation_y_degrees": 29.53623188405797
+    },
+    {
+      "frame": 17,
+      "rotation_y_degrees": 32.507246376811594
+    },
+    {
+      "frame": 18,
+      "rotation_y_degrees": 35.47826086956522
+    },
+    {
+      "frame": 19,
+      "rotation_y_degrees": 38.44927536231884
+    },
+    {
+      "frame": 20,
+      "rotation_y_degrees": 41.42028985507246
+    },
+    {
+      "frame": 21,
+      "rotation_y_degrees": 44.391304347826086
+    },
+    {
+      "frame": 22,
+      "rotation_y_degrees": 47.362318840579704
+    },
+    {
+      "frame": 23,
+      "rotation_y_degrees": 50.33333333333333
+    },
+    {
+      "frame": 24,
+      "rotation_y_degrees": 53.30434782608695
+    },
+    {
+      "frame": 25,
+      "rotation_y_degrees": 56.27536231884058
+    },
+    {
+      "frame": 26,
+      "rotation_y_degrees": 59.2463768115942
+    },
+    {
+      "frame": 27,
+      "rotation_y_degrees": 62.21739130434783
+    },
+    {
+      "frame": 28,
+      "rotation_y_degrees": 65.18840579710145
+    },
+    {
+      "frame": 29,
+      "rotation_y_degrees": 68.15942028985508
+    },
+    {
+      "frame": 30,
+      "rotation_y_degrees": 71.1304347826087
+    },
+    {
+      "frame": 31,
+      "rotation_y_degrees": 74.10144927536231
+    },
+    {
+      "frame": 32,
+      "rotation_y_degrees": 77.07246376811594
+    },
+    {
+      "frame": 33,
+      "rotation_y_degrees": 80.04347826086956
+    },
+    {
+      "frame": 34,
+      "rotation_y_degrees": 83.01449275362319
+    },
+    {
+      "frame": 35,
+      "rotation_y_degrees": 85.98550724637681
+    },
+    {
+      "frame": 36,
+      "rotation_y_degrees": 88.95652173913044
+    },
+    {
+      "frame": 37,
+      "rotation_y_degrees": 91.92753623188406
+    },
+    {
+      "frame": 38,
+      "rotation_y_degrees": 94.89855072463769
+    },
+    {
+      "frame": 39,
+      "rotation_y_degrees": 97.8695652173913
+    },
+    {
+      "frame": 40,
+      "rotation_y_degrees": 100.84057971014492
+    },
+    {
+      "frame": 41,
+      "rotation_y_degrees": 103.81159420289855
+    },
+    {
+      "frame": 42,
+      "rotation_y_degrees": 106.78260869565217
+    },
+    {
+      "frame": 43,
+      "rotation_y_degrees": 109.7536231884058
+    },
+    {
+      "frame": 44,
+      "rotation_y_degrees": 112.72463768115941
+    },
+    {
+      "frame": 45,
+      "rotation_y_degrees": 115.69565217391303
+    },
+    {
+      "frame": 46,
+      "rotation_y_degrees": 118.66666666666666
+    },
+    {
+      "frame": 47,
+      "rotation_y_degrees": 121.63768115942028
+    },
+    {
+      "frame": 48,
+      "rotation_y_degrees": 124.6086956521739
+    },
+    {
+      "frame": 49,
+      "rotation_y_degrees": 127.57971014492753
+    },
+    {
+      "frame": 50,
+      "rotation_y_degrees": 130.55072463768116
+    },
+    {
+      "frame": 51,
+      "rotation_y_degrees": 133.52173913043478
+    },
+    {
+      "frame": 52,
+      "rotation_y_degrees": 136.4927536231884
+    },
+    {
+      "frame": 53,
+      "rotation_y_degrees": 139.46376811594203
+    },
+    {
+      "frame": 54,
+      "rotation_y_degrees": 142.43478260869566
+    },
+    {
+      "frame": 55,
+      "rotation_y_degrees": 145.40579710144928
+    },
+    {
+      "frame": 56,
+      "rotation_y_degrees": 148.3768115942029
+    },
+    {
+      "frame": 57,
+      "rotation_y_degrees": 151.34782608695653
+    },
+    {
+      "frame": 58,
+      "rotation_y_degrees": 154.31884057971016
+    },
+    {
+      "frame": 59,
+      "rotation_y_degrees": 157.28985507246378
+    },
+    {
+      "frame": 60,
+      "rotation_y_degrees": 160.2608695652174
+    },
+    {
+      "frame": 61,
+      "rotation_y_degrees": 163.231884057971
+    },
+    {
+      "frame": 62,
+      "rotation_y_degrees": 166.20289855072463
+    },
+    {
+      "frame": 63,
+      "rotation_y_degrees": 169.17391304347825
+    },
+    {
+      "frame": 64,
+      "rotation_y_degrees": 172.14492753623188
+    },
+    {
+      "frame": 65,
+      "rotation_y_degrees": 175.1159420289855
+    },
+    {
+      "frame": 66,
+      "rotation_y_degrees": 178.08695652173913
+    },
+    {
+      "frame": 67,
+      "rotation_y_degrees": 181.05797101449275
+    },
+    {
+      "frame": 68,
+      "rotation_y_degrees": 184.02898550724638
+    },
+    {
+      "frame": 69,
+      "rotation_y_degrees": 187.0
+    }
+  ]
+}

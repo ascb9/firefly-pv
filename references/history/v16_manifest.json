@@ -1,0 +1,393 @@
+{
+  "version": "V1.6",
+  "state": "composed and validated",
+  "created_utc": "2026-10-10T18:57:53.291375+00:00",
+  "source_inputs": [
+    {
+      "filename": "雪为何色.mp4",
+      "library_file_id": "libfile_80ac9bdd73648191acc5b0ba50de93d8",
+      "size_bytes": 13163298,
+      "sha256": "db2767ff1c2940be4119919815783bec295fd8123609384323a0b51b00c5d179"
+    },
+    {
+      "filename": "雪为何色_流萤角色替换_V1.3.mp4",
+      "library_file_id": "libfile_67d621f773608191a3d3af7f8b55d283",
+      "size_bytes": 62184444,
+      "sha256": "0c97e617bfce07001fb7816d6ae711d853a7fc6ad26027e9060833dec89fee1a"
+    }
+  ],
+  "visual_master": {
+    "filename": "雪为何色_流萤角色替换_V1.4_画面精修.mp4",
+    "recovered_path": "/workspace/scratch/d66e11180de7/deliverables/雪为何色_流萤角色替换_V1.4_画面精修.mp4",
+    "sha256": "65e4522c68eff64d45e838425243df8a3f2fb4ade0c0077ada21b2947693d5b7",
+    "library_file_id": "libfile_1dbd91a8ef44819191b35dd63b1dd710"
+  },
+  "fps": 30,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "frame_count": 2764,
+  "frame_index_convention": "zero-based, start-inclusive / end-exclusive",
+  "running_original_range": [
+    1110,
+    1304
+  ],
+  "animation_keys": [
+    "a01_start_00.png",
+    "a01_start_01.png",
+    "a01_start_02.png",
+    "a02_eye_00.png",
+    "a02_eye_01.png",
+    "a02_eye_hair02.png",
+    "a03_cocoon_bg_00.png",
+    "a03_cocoon_bg_01.png",
+    "a03_cocoon_bg_02.png",
+    "a04_intro_00.png",
+    "a04_intro_01.png",
+    "a04_intro_02.png",
+    "a05_duo_00.png",
+    "a05_duo_01.png",
+    "a05_duo_02.png",
+    "a06_duoclose_00.png",
+    "a06_duoclose_01.png",
+    "a06_duoclose_02.png",
+    "a07_park_00.png",
+    "a07_park_01.png",
+    "a07_park_02.png",
+    "a08_feet_00.png",
+    "a08_feet_01.png",
+    "a08_feet_02.png",
+    "a09_kisswide_00.png",
+    "a09_kisswide_01.png",
+    "a09_kisswide_02.png",
+    "a09_kisswide_03.png",
+    "a09_kisswide_05.png",
+    "a09_kisswide_06.png",
+    "a09_kisswide_07.png",
+    "a09_kisswide_08.png",
+    "a11_group_00.png",
+    "a11_group_01.png",
+    "a11_group_02.png",
+    "a12_gift_00.png",
+    "a12_gift_01.png",
+    "a13_smile_00.png",
+    "a13_smile_01.png",
+    "a13_smile_02.png",
+    "a14_warm_00.png",
+    "a14_warm_01.png",
+    "a14_warm_02.png",
+    "a15_snowduo_00.png",
+    "a15_snowduo_01.png",
+    "a15_snowduo_02.png",
+    "a16_bright_00.png",
+    "a16_bright_01.png",
+    "a16_bright_02.png",
+    "a17_pendant_00.png",
+    "a17_pendant_01.png",
+    "a17_pendant_02.png",
+    "a18_laugh_00.png",
+    "a18_laugh_01.png",
+    "a18_laugh_02.png",
+    "a19_end_00.png",
+    "a19_end_01.png",
+    "a19_end_02.png",
+    "a19_end_03.png"
+  ],
+  "new_imagegen_calls": 1,
+  "rotation": "70 frames re-rendered from the existing mesh and textures with revised native cel shader; no prop regeneration",
+  "character_interpolation": "full-canvas keys, bidirectional motion interpolation bounded to 24px at 1080p; faces stabilized",
+  "eye": "always open, no blink keys",
+  "kissing": "common master and hair keys; continuous wide-to-close camera",
+  "audio": "original AAC copied, no retiming",
+  "original_work_recovered": "/workspace/scratch/d66e11180de7/work/pv_v15",
+  "excluded_assets": [
+    "all run_*",
+    "a02_eye_02.png",
+    "a02_eye_03.png"
+  ],
+  "official_prop_reference": "https://toy.bandai.co.jp/ja/item/01_21239/",
+  "color_encoding": {
+    "ycbcr_matrix": "BT.709",
+    "rgb_conversion": "explicit full-range RGB to limited-range BT.709",
+    "audio": "original AAC packet stream copied"
+  },
+  "scene_ranges": [
+    {
+      "scene": "a01_start",
+      "start": 265,
+      "end": 343,
+      "seconds": [
+        8.833333333333334,
+        11.433333333333334
+      ]
+    },
+    {
+      "scene": "a02_eye",
+      "start": 508,
+      "end": 654,
+      "seconds": [
+        16.933333333333334,
+        21.8
+      ]
+    },
+    {
+      "scene": "a03_cocoon_bg",
+      "start": 654,
+      "end": 724,
+      "seconds": [
+        21.8,
+        24.133333333333333
+      ]
+    },
+    {
+      "scene": "a04_intro",
+      "start": 724,
+      "end": 813,
+      "seconds": [
+        24.133333333333333,
+        27.1
+      ]
+    },
+    {
+      "scene": "a05_duo",
+      "start": 813,
+      "end": 880,
+      "seconds": [
+        27.1,
+        29.333333333333332
+      ]
+    },
+    {
+      "scene": "a06_duoclose",
+      "start": 880,
+      "end": 946,
+      "seconds": [
+        29.333333333333332,
+        31.533333333333335
+      ]
+    },
+    {
+      "scene": "a07_park",
+      "start": 983,
+      "end": 1063,
+      "seconds": [
+        32.766666666666666,
+        35.43333333333333
+      ]
+    },
+    {
+      "scene": "a08_feet",
+      "start": 1304,
+      "end": 1342,
+      "seconds": [
+        43.46666666666667,
+        44.733333333333334
+      ]
+    },
+    {
+      "scene": "a09_kisswide",
+      "start": 1342,
+      "end": 1496,
+      "seconds": [
+        44.733333333333334,
+        49.86666666666667
+      ]
+    },
+    {
+      "scene": "a11_group",
+      "start": 1545,
+      "end": 1605,
+      "seconds": [
+        51.5,
+        53.5
+      ]
+    },
+    {
+      "scene": "a12_gift",
+      "start": 1605,
+      "end": 1643,
+      "seconds": [
+        53.5,
+        54.766666666666666
+      ]
+    },
+    {
+      "scene": "a13_smile",
+      "start": 1643,
+      "end": 1697,
+      "seconds": [
+        54.766666666666666,
+        56.56666666666667
+      ]
+    },
+    {
+      "scene": "a14_warm",
+      "start": 1950,
+      "end": 2027,
+      "seconds": [
+        65.0,
+        67.56666666666666
+      ]
+    },
+    {
+      "scene": "a15_snowduo",
+      "start": 2027,
+      "end": 2062,
+      "seconds": [
+        67.56666666666666,
+        68.73333333333333
+      ]
+    },
+    {
+      "scene": "a16_bright",
+      "start": 2062,
+      "end": 2116,
+      "seconds": [
+        68.73333333333333,
+        70.53333333333333
+      ]
+    },
+    {
+      "scene": "a17_pendant",
+      "start": 2116,
+      "end": 2218,
+      "seconds": [
+        70.53333333333333,
+        73.93333333333334
+      ]
+    },
+    {
+      "scene": "a18_laugh",
+      "start": 2218,
+      "end": 2272,
+      "seconds": [
+        73.93333333333334,
+        75.73333333333333
+      ]
+    },
+    {
+      "scene": "a19_end",
+      "start": 2592,
+      "end": 2764,
+      "seconds": [
+        86.4,
+        92.13333333333334
+      ]
+    }
+  ],
+  "parent_version": "V1.5",
+  "base_video": {
+    "filename": "雪为何色_流萤角色替换_V1.5_动态精修.mp4",
+    "sha256": "2b90e8eaa24718d28e079a8e187fa58859e0363550899ca82d1641e3a1532e0e",
+    "library_file_id": "libfile_f608e721346081919fc7eaa73603730c",
+    "source_library_version": 0
+  },
+  "revisions": [
+    {
+      "user_time": "0:08",
+      "frames": [
+        265,
+        343
+      ],
+      "change": "Restore complete V1.4 title/logo shot"
+    },
+    {
+      "user_time": "0:21–0:23",
+      "frames": [
+        654,
+        724
+      ],
+      "change": "Reuse SAM Cocoon mesh; cold ambient cel shading, reduced photographic microdetail, translucent wings, alpha correction and restrained bloom"
+    },
+    {
+      "user_time": "0:23–0:24",
+      "frames": [
+        724,
+        813
+      ],
+      "change": "Right-to-left flash and close portrait pull-back, followed by right-side 流萤 name"
+    },
+    {
+      "user_time": "0:32–0:35",
+      "frames": [
+        983,
+        1063
+      ],
+      "change": "Static silhouette and camera, subtitle highlight alone follows original frame clock"
+    },
+    {
+      "user_time": "0:54–0:55",
+      "frames": [
+        1643,
+        1697
+      ],
+      "change": "Character cel enters from left, shrinks, exits right on original shot timing"
+    },
+    {
+      "user_time": "1:08",
+      "frames": [
+        2027,
+        2062
+      ],
+      "change": "Restore all three V1.4 clothing cuts"
+    },
+    {
+      "user_time": "1:14",
+      "frames": [
+        2218,
+        2272
+      ],
+      "change": "Fixed camera and master hand/wrist, preserve surrounding hair motion"
+    }
+  ],
+  "new_character_asset_this_revision": "a13_exit_cel.png",
+  "reused_full_scene_keys": 59,
+  "updated_utc": "2026-10-10T19:44:41.203089+00:00",
+  "validation": {
+    "version": "V1.6",
+    "frame_count": 2764,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "fps": 30,
+    "video_duration_seconds": 92.133333,
+    "audio_duration_seconds": 92.136553,
+    "full_decode_without_errors": true,
+    "original_aac_packets_equal": true,
+    "aac_packet_sha256": "f34dd16208df15e9e5b741ec2a328939682704cb6157cc53d0354d902c903519",
+    "max_original_pts_difference_ms": 0.33333333334439885,
+    "color_matrix": "BT.709 with explicit RGB-to-YCbCr conversion",
+    "restored_v14_all_113_frames_comparison": {
+      "mean_psnr_db": 43.68811798095703,
+      "min_psnr_db": 42.022315979003906,
+      "mean_absolute_rgb_error": 1.3239808082580566
+    },
+    "original_running_all_194_frames_comparison": {
+      "mean_psnr_db": 38.37736511230469,
+      "min_psnr_db": 37.49997329711914,
+      "mean_absolute_rgb_error": 2.671990156173706
+    },
+    "retained_v15_sample_comparison": {
+      "mean_psnr_db": 45.24507141113281,
+      "min_psnr_db": 40.536861419677734,
+      "mean_absolute_rgb_error": 1.6603258848190308
+    },
+    "protected_static_regions": {
+      "park": {
+        "checked_frames": 80,
+        "max_preencode_pixel_change": 0
+      },
+      "hand": {
+        "checked_frames": 42,
+        "max_preencode_pixel_change": 0
+      }
+    },
+    "intro_right_to_left_then_pullback_verified": true,
+    "smile_left_to_right_then_shrink_and_exit_verified": true,
+    "original_audio_and_frame_clock_retained": true,
+    "new_imagegen_calls_this_revision": 1,
+    "visual_review": "targeted scenes reviewed as pre-encode and final encoded contact sheets"
+  }
+}

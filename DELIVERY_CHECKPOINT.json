@@ -1,0 +1,12 @@
+{
+  "status": "validated complete V1.7 deliverables",
+  "video": {
+    "filename": "雪为何色_流萤角色替换_V1.7_分镜与运镜精修.mp4",
+    "size_bytes": 92697820,
+    "sha256": "4d141f3f55d1cc00c2adf24ce939f0b4a201316cfc925e261257773b368dcb74"
+  },
+  "source_video_library_id": "libfile_f608e721346081919fc7eaa73603730c",
+  "source_engineering_library_id": "libfile_992a90aeb7788191a40cab253e1f5e84",
+  "resume_imagegen_calls": 0,
+  "next_resume": "Use V1.7 video/project; do not repeat completed rendering or art generation"
+}

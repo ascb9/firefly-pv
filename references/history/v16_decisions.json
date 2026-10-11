@@ -1,0 +1,69 @@
+{
+  "inherited_v15": {
+    "eye_scene": "always open, use only a02_eye_00, a02_eye_01, a02_eye_hair02; no blinking",
+    "running": "Original MV interval 1110-1303 (37.000-43.4667s), restoring entire title/gait shot rather than cutting back to AI gait at 42s.",
+    "sources": "Recover original work in /workspace/scratch/d66e11180de7; reuse pre-drawn full-canvas cels",
+    "new_image_generation_count_this_turn": 1,
+    "gift_new_cel": "a12_gift_01.png",
+    "timing": "frame index is locked to the original; 30fps,2764 frames",
+    "kissing": "Use one common wide-shot master and micro-motion cels for both wide and close framing"
+  },
+  "v16_revision": [
+    {
+      "user_time": "0:08",
+      "frames": [
+        265,
+        343
+      ],
+      "change": "Restore complete V1.4 title/logo shot"
+    },
+    {
+      "user_time": "0:21–0:23",
+      "frames": [
+        654,
+        724
+      ],
+      "change": "Reuse SAM Cocoon mesh; cold ambient cel shading, reduced photographic microdetail, translucent wings, alpha correction and restrained bloom"
+    },
+    {
+      "user_time": "0:23–0:24",
+      "frames": [
+        724,
+        813
+      ],
+      "change": "Right-to-left flash and close portrait pull-back, followed by right-side 流萤 name"
+    },
+    {
+      "user_time": "0:32–0:35",
+      "frames": [
+        983,
+        1063
+      ],
+      "change": "Static silhouette and camera, subtitle highlight alone follows original frame clock"
+    },
+    {
+      "user_time": "0:54–0:55",
+      "frames": [
+        1643,
+        1697
+      ],
+      "change": "Character cel enters from left, shrinks, exits right on original shot timing"
+    },
+    {
+      "user_time": "1:08",
+      "frames": [
+        2027,
+        2062
+      ],
+      "change": "Restore all three V1.4 clothing cuts"
+    },
+    {
+      "user_time": "1:14",
+      "frames": [
+        2218,
+        2272
+      ],
+      "change": "Fixed camera and master hand/wrist, preserve surrounding hair motion"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "matrix": [
+    [
+      1.471577890391003,
+      0.002367747087426085,
+      -102.62794625253386
+    ],
+    [
+      -0.002367747087426085,
+      1.471577890391003,
+      6.02822978238306
+    ]
+  ],
+  "matches": 332,
+  "inliers": 247,
+  "median_error_pixels": 2.048,
+  "method": "SIFT similarity registration; approved portrait retained at native detail"
+}

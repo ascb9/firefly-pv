@@ -1,0 +1,6 @@
+Built-in imagegen edit; 1 call for the cropped character edge required by the entrance/exit shot.
+Input: ../pv_v15/assets/a13_smile_00.png
+Output: assets/a13_exit_cel.png
+Transparent background: true
+
+Use case: background-extraction / identity-preserve. Asset type: one transparent 2D anime character cel for an existing music-video shot. Input image 1 is the EDIT TARGET, an already approved Firefly illustration. Remove ONLY the pavement/background and extract the same smiling character. Complete the right edge of her head/face/hair and shoulder that is cropped in the source, and extend just enough lower torso to allow this upper-body cel to enter, shrink slightly and exit a 16:9 video without straight crop edges. Preserve the existing closed-eye happy expression, open smiling mouth, delicate silver hair, teal ribbons, black headband, black/gold cape-jacket, white blouse, gold chest pendant, body proportions and the exact soft painterly anime line/shading style. Do not redesign her or introduce a new pose, extra hands or objects. Use the same warm soft lighting without added beams/particles. Show complete head, flowing hair and both shoulders, with upper body through waist; leave generous transparent padding on left and right. Real transparent alpha background, no floor, no text, no border, no checkerboard painted into image. One character only.

@@ -1,0 +1,57 @@
+{
+  "frames": 2764,
+  "fps": 30,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "patched_ranges": [
+    [
+      "restore_v14_title",
+      265,
+      343
+    ],
+    [
+      "cocoon_scene",
+      654,
+      724
+    ],
+    [
+      "intro_entry",
+      724,
+      813
+    ],
+    [
+      "static_silhouette",
+      983,
+      1063
+    ],
+    [
+      "smile_entry_exit",
+      1643,
+      1697
+    ],
+    [
+      "restore_v14_costume_cuts",
+      2027,
+      2062
+    ],
+    [
+      "stable_hand",
+      2218,
+      2272
+    ]
+  ],
+  "counts": {
+    "retained_v15": 2304,
+    "restore_v14_title": 78,
+    "cocoon_scene": 70,
+    "intro_entry": 89,
+    "static_silhouette": 80,
+    "smile_entry_exit": 54,
+    "restore_v14_costume_cuts": 35,
+    "stable_hand": 54
+  },
+  "preview_only": false,
+  "elapsed_seconds": 164.90022276300078
+}

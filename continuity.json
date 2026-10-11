@@ -1,0 +1,23 @@
+{
+  "version": "V1.7",
+  "prior_completed_work": {
+    "V1.6": "Validated 2764-frame edit; 59 full-scene keys, prop frames and earlier approved revisions recovered",
+    "V1.7_portraits": "Three already generated paintings recovered and visually verified; no new generation during resume",
+    "original_analysis": "Measured original foreground movement, open/closed flash cut at frame 1661, floor-only transition from frame 1691, and wide/close shot grammar at 47 seconds",
+    "iteration_1": "Actual MP4 identified entry-edge replication and optical timing differences",
+    "iteration_2": "Extended painting and coverage blending removed edge replication; original-frame focus/exposure calibration restored flash timing",
+    "iteration_3": "Feet held still; wide/close dissolve shortened to 12 frames to match original timing",
+    "interruption": "Previously rendered complete V1.7 and local scripts were cleared before final delivery; recovered approved assets and measured parameters used for reconstruction"
+  },
+  "resume_actions": [
+    "Recovered persistent V1.6 MP4, project ZIP and original MP4",
+    "Recovered and verified all three V1.7 paintings",
+    "Reconstructed frame-locked renderer using preserved original measurements",
+    "Refitted inexpensive optical parameters from the original MP4",
+    "Rendered 108-frame portrait preview and reviewed decoded original/candidate contact sheets",
+    "Exported complete V1.7, decoded for final QA and packaged reusable project and MP4 comparison"
+  ],
+  "resume_imagegen_calls": 0,
+  "source_frame_convention": "zero-based, inclusive start / exclusive end, 30fps",
+  "delivery_status": "See manifest.json for final validation and state"
+}

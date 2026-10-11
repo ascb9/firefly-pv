@@ -1,0 +1,134 @@
+[
+  {
+    "group": "seed",
+    "prompts": [
+      {
+        "name": "a02_eye_00",
+        "ref": "work/pv_v14/assets/01_eye.png",
+        "prompt": "Use case: precise-object-edit. Asset type: clean full-canvas 16:9 anime PV animation cel. Edit target: the supplied Firefly eye close-up. Remove EVERY printed letter, credit, subtitle and small decorative blue icon from the right side and bottom, filling those areas seamlessly with the same warm pink crystalline light. Preserve exactly the Firefly eye anatomy, dark oval pupil, cyan-violet-gold iris, thin eyelashes, hair strands, framing, skin shading and crystalline snowflakes. Do not add a blink yet. This is the registered base of a subtle eye/hair animation. Same line weight and anime painting, no camera movement, no pasted rectangles, no text. Output one complete landscape frame."
+      },
+      {
+        "name": "a03_cocoon_bg_00",
+        "ref": "work/pv_v14/assets/02_silhouette.png",
+        "prompt": "Use case: precise-object-edit. Asset type: clean full-canvas 16:9 anime PV animation background and character cel. Remove the enormous foreground glass snowflake on the right, and remove all bottom subtitle text. Repaint the vacated right foreground as seamless cyan-white crystalline snowfield, pale soft bokeh and light, keeping its horizon and diagonal perspective. Preserve the tiny full-body Firefly at left at exactly her size and position, recognizable silver hair with mint tips, green skirt, dark stockings, silver ankle boots. Preserve the distant small snowflakes and scene illumination. There must be NOTHING resembling the large foreground snowflake in the right half: it will be replaced later by a separately animated SAM transformation device. Same borderless full-frame composition and painting. No text, no frame borders, no additional character, no new foreground object."
+      },
+      {
+        "name": "a05_duo_00",
+        "ref": "work/pv_v14/assets/03_duo.png",
+        "prompt": "Use case: precise-object-edit. Asset type: full-canvas 16:9 registered anime PV cel. Remove only the bottom Chinese subtitle and seamlessly restore the warm pink snow-lit background beneath it. Preserve the complete Firefly and Caelus scene: blurred Caelus left foreground facing Firefly on the right; Firefly's silver hair with mint ends, black-mint headband, turquoise-violet-gold eyes, small surprised mouth, black-gold jacket over ruffled white dress and ribbon. Preserve their positions, head anatomy, proportions, background perspective and soft pink-golden light. No new text or logos, no camera crop, no stylistic change. This is the fixed base frame for breath, hair and eyelid animation."
+      },
+      {
+        "name": "a08_feet_00",
+        "ref": "work/pv_v14/assets/05_feet.png",
+        "prompt": "Use case: precise-object-edit. Asset type: full-canvas 16:9 registered anime PV cel. Remove all bottom lyric text, painting the underlying snow naturally. Preserve exactly all FOUR separate legs and FOUR shoes: Caelus two dark trouser legs and two black strapped shoes on the left, Firefly two dark stocking legs and two silver ankle boots with mint ornaments on the right. Preserve their size, position, anatomy, shoe details, snowfall, blue-white snowfield and soft anime lighting. No merging legs, no extra limbs, no text, no borders, same full frame. Base pose of a subtle weight shift sequence."
+      },
+      {
+        "name": "a19_end_00",
+        "ref": "work/pv_v14/assets/08_ending.png",
+        "prompt": "Use case: precise-object-edit. Asset type: clean full-canvas 16:9 anime ending animation cel. Remove the ENTIRE title/logo graphic on the right, every letter, mascot, little figure and decorative flourish belonging to that logo, leaving only the natural blue snowy background, bokeh and snowfall in its place. Preserve the main large Firefly character at left, her face and head shape, silver-mint hair, cyan-violet eyes, joyous open smile, black-gold costume and raised left-side hand with five natural fingers. Preserve her exact position, proportions, line weight, colors and icy scene light. No text or logos anywhere. Output one full landscape cel, no cutouts or border."
+      },
+      {
+        "name": "cocoon_front",
+        "refs": [
+          "work/pv_v15/references/cocoon_03.jpg",
+          "work/pv_v15/references/cocoon_04.jpg"
+        ],
+        "prompt": "Use case: style-transfer. Asset type: transparent anime texture of the official Firefly S.A.M. Cocoon transformation device. Image 1 is the exact FRONT geometry reference; image 2 is the BACK reference for identity only. Render ONLY the fully opened device, perfectly frontal orthographic view and bilaterally symmetrical, matching image 1 silhouette, all mechanical plates, silver-white faceted pointed central shell, black edges, gold V-shaped trim, cyan translucent core, two large spread upper wings and two smaller lower wings. Wings are thin translucent teal at the root graduating to pale yellow at pointed tips, with engraved fine circuit lines. Premium clean anime PV painted shading, crisp fine outlines, bright icy highlights, physically believable metallic thickness. Isolated on genuine alpha transparency, no white backdrop, no stand, no shadow on a ground plane, no text, no figure. Keep entire device uncropped with 5% clear margin. Device horizontal span about 2.5 times its height. Do not invent snowflake limbs. Exact official object shape, stylized anime illustration instead of toy photograph."
+      }
+    ]
+  },
+  {
+    "group": "seed2",
+    "prompts": [
+      {
+        "name": "a01_start_00",
+        "ref": "work/pv_v15/references/seeds/f00300.png",
+        "prompt": "Use case: precise-object-edit. Asset type: full-canvas 16:9 anime PV clean animation cel. Remove the large centered logo, every printed letter and its tiny mascot and swirls, restoring the snowfield beneath. Preserve the luminous pale silver-mint Firefly figure at center-right behind the logo, flowing hair and skirt, in the same dreamy semi-transparent drawn style. Preserve the blue illuminated winter park, diagonal tree perspective, snow, bokeh and building geometry. Reveal a natural complete unobstructed Firefly without making her larger or darker. No text, logo, mascot, frame, border or pasted rectangle. Same full landscape camera and blue-white painting."
+      },
+      {
+        "name": "a04_intro_00",
+        "ref": "work/pv_v15/references/seeds/f00780.png",
+        "prompt": "Use case: precise-object-edit. Asset type: clean registered 16:9 anime PV cel. Remove ALL title text, Chinese/Japanese names, English letters, credits and subtitles including vertical right-hand name, restoring cyan snowflake light and pink ribbons underneath. Preserve exactly the large smiling Firefly at left, head shape, turquoise-violet-gold eyes, silver hair with mint ends, dark-mint headband and side ornament, lifted hand with five fingers and black-gold-white costume. Preserve her framing and the luminous cyan-pink winter background. No new text, no style shift, no camera move, no extra figure. One complete landscape frame."
+      },
+      {
+        "name": "a06_duoclose_00",
+        "ref": "work/pv_v15/references/seeds/f00900.png",
+        "prompt": "Use case: precise-object-edit. Asset type: registered clean 16:9 anime PV cel. Remove all bottom subtitles and ALL flat orange leaf/petal transition graphics from in front of the character, naturally rebuilding the affected hair, costume and background. Preserve the tight Firefly portrait, her slight surprised mouth, wide turquoise-violet eyes, fine silver bangs, mint hair tips, dark-gold costume and warm sunset painting. Same face size, tilt, location, anatomy, palette, lighting and line weight. No text or graphic overlays, no crop, no borders. Base pose for a subtle natural breathing and hair sequence."
+      },
+      {
+        "name": "a07_park_00",
+        "ref": "work/pv_v15/references/seeds/f01020.png",
+        "prompt": "Use case: precise-object-edit. Asset type: full landscape 16:9 clean anime PV cel. Remove only the bottom Chinese subtitle, restoring the blue snow under it. Preserve the winter park geometry, lamp posts, snowy stairs and trees, bench on the right, shadow and dark blue tiny full-body silhouette of Firefly in the center-left. Her flowing long hair, skirt, arms and TWO legs should remain exactly the same size and location; do not make her an ordinary girl silhouette. No text, no frame border, no new elements. This is the fixed background and base pose for a small running cycle."
+      },
+      {
+        "name": "a09_kisswide_00",
+        "refs": [
+          "work/pv_v15/references/seeds/f01350.png",
+          "work/pv_v14/assets/03_duo.png"
+        ],
+        "prompt": "Use case: identity-preserve. Asset type: MASTER full-canvas 16:9 anime kissing PV cel. Image 1 is the scene/composition edit target. Image 2 defines Firefly/Caelus character design and consistent fine anime linework ONLY, not its pose or warm background. Redraw the entire kissing scene as a single uninterrupted high-detail illustration with consistent soft anime painting. Caelus left with ash-gray hair and black-gold jacket, Firefly right with silver-mint long hair, black-mint headband, white-mint ornament, black-gold jacket over white dress. Both eyes gently closed, lips just touching in a tender nonsexual kiss. Firefly's hand naturally grips his lapel, his visible arm supports her back, correct five fingers. Keep the exact composition of image 1 and luminous blue winter-park background. Keep their faces well defined and natural, same head sizes, no bulging head. Remove bottom lyrics, any faint frame-edge rectangles, seams and ghost overlays. No text anywhere. Her long hair flows toward the right. Aim for a clean high-resolution master suitable for a later 2x close-up crop: same stroke weight and shading at every zoom. Output one complete wide landscape anime frame, ideally 3840 by 2160."
+      }
+    ]
+  },
+  {
+    "group": "runkeys",
+    "prompts": [
+      {
+        "name": "cocoon_back",
+        "refs": [
+          "work/pv_v15/references/cocoon_04.jpg",
+          "work/pv_v15/assets/cocoon_front.png"
+        ],
+        "prompt": "Use case: style-transfer. Asset type: transparent orthographic anime BACK texture of Firefly's S.A.M. Cocoon transformation device. Image 1 is the exact official BACK geometry. Image 2 is our FRONT texture; match its silhouette, dimensions, metallic anime painting, outlines, bright cyan ice lighting and wing colors perfectly. Render fully opened device from exactly the BACK, frontal orthographic projection. Central mechanical body must match official back with black inset near top and gold vertical ribbed rear panel surrounded by silver-white shell. Two large upper wings and two smaller lower wings, translucent cyan/teal roots to pale yellow pointed tips, fine circuit engraving. Exact bilateral symmetry and identical outside contour to the front texture. No invented features. Only the complete uncropped device with 5% margin on genuine alpha transparency; no stand, text, white backdrop or ground shadow. Horizontal span about 2.5 times height. One clean anime asset."
+      },
+      {
+        "name": "firefly_logo",
+        "refs": [
+          "work/pv_v15/references/seeds/f00300.png"
+        ],
+        "prompt": "Use case: background-extraction. Asset type: transparent anime PV title logo. Isolate and reproduce ONLY the central existing title graphic from the supplied frame: the blue-white-mint Japanese logo 'ほたる色シンフォニー', its tiny scarfed cat mascot, original ornamental flourishes, snowflakes, English 'FIREFLY EDITION', small Japanese line and lower '雪は何色 — 蛍が灯す冬 —'. Preserve lettering shape, layout, outlines, gradient shading and all small typography exactly. Remove the park background and all human figures including the ghostly silver-haired woman behind the logo. Genuine alpha transparency outside the existing logo graphic. No new slogan, no new person, no shadows outside the illustration, no white rectangular backdrop. Center the complete logo within a wide 16:9 transparent canvas so it can be overlaid at a fixed position independently of animated art."
+      }
+    ]
+  },
+  {
+    "group": "micro1",
+    "prompts": [
+      {
+        "name": "a02_eye_01",
+        "ref": "assets/a02_eye_00.png",
+        "change": "Keep the eye fully open with precisely the same stable dark oval pupil and iris size. Draw the upper loose silver hair strands drifting only 6-10 pixels gently right; move two eyelashes minutely and a few reflected sparkle points, as the next quiet breathing cel.",
+        "prompt": "Use case: identity-preserve. Asset type: one registered full-frame 16:9 anime PV in-between cel. EDIT the supplied clean base frame, preserving its exact painting style, framing, background, character identity, colors, lighting, stroke width and anatomy. The requested change is SMALL; do not redesign the illustration. Keep the eye fully open with precisely the same stable dark oval pupil and iris size. Draw the upper loose silver hair strands drifting only 6-10 pixels gently right; move two eyelashes minutely and a few reflected sparkle points, as the next quiet breathing cel. Preserve all unmentioned pixels as closely as possible. No camera move, no zoom, no text, no logo, no new character, no pasted seams. One complete landscape animation frame."
+      },
+      {
+        "name": "a19_end_01",
+        "ref": "assets/a19_end_00.png",
+        "change": "Draw the next subtle breeze cel. Move the free silver-mint hair ends 12-18 pixels upward and right with graceful curves; keep their roots fixed. Lift her shoulders by only 3 pixels for gentle inhalation. Her face, fully open eyes, hand and happy mouth retain their exact shape, position and expression.",
+        "prompt": "Use case: identity-preserve. Asset type: one registered full-frame 16:9 anime PV in-between cel. EDIT the supplied clean base frame, preserving its exact painting style, framing, background, character identity, colors, lighting, stroke width and anatomy. The requested change is SMALL; do not redesign the illustration. Draw the next subtle breeze cel. Move the free silver-mint hair ends 12-18 pixels upward and right with graceful curves; keep their roots fixed. Lift her shoulders by only 3 pixels for gentle inhalation. Her face, fully open eyes, hand and happy mouth retain their exact shape, position and expression. Preserve all unmentioned pixels as closely as possible. No camera move, no zoom, no text, no logo, no new character, no pasted seams. One complete landscape animation frame."
+      },
+      {
+        "name": "a19_end_02",
+        "ref": "assets/a19_end_00.png",
+        "change": "Draw a gentle returning breeze cel. Free silver-mint hair ends settle 10-14 pixels downward; a few thin side strands drift softly across her shoulder. Shoulders relax 3 pixels. Keep face, open eyes, smile, raised hand, headband and body proportions precisely registered.",
+        "prompt": "Use case: identity-preserve. Asset type: one registered full-frame 16:9 anime PV in-between cel. EDIT the supplied clean base frame, preserving its exact painting style, framing, background, character identity, colors, lighting, stroke width and anatomy. The requested change is SMALL; do not redesign the illustration. Draw a gentle returning breeze cel. Free silver-mint hair ends settle 10-14 pixels downward; a few thin side strands drift softly across her shoulder. Shoulders relax 3 pixels. Keep face, open eyes, smile, raised hand, headband and body proportions precisely registered. Preserve all unmentioned pixels as closely as possible. No camera move, no zoom, no text, no logo, no new character, no pasted seams. One complete landscape animation frame."
+      },
+      {
+        "name": "a19_end_03",
+        "ref": "assets/a19_end_00.png",
+        "change": "Draw a very small friendly wave: pivot the raised wrist about 4 degrees toward the camera, fingers relaxed and natural, exactly five fingers. Keep hand size and its center position unchanged. Hair tips lift 8 pixels and cuff folds respond naturally. Keep head, eyes, mouth, face, neck and the rest of the composition registered.",
+        "prompt": "Use case: identity-preserve. Asset type: one registered full-frame 16:9 anime PV in-between cel. EDIT the supplied clean base frame, preserving its exact painting style, framing, background, character identity, colors, lighting, stroke width and anatomy. The requested change is SMALL; do not redesign the illustration. Draw a very small friendly wave: pivot the raised wrist about 4 degrees toward the camera, fingers relaxed and natural, exactly five fingers. Keep hand size and its center position unchanged. Hair tips lift 8 pixels and cuff folds respond naturally. Keep head, eyes, mouth, face, neck and the rest of the composition registered. Preserve all unmentioned pixels as closely as possible. No camera move, no zoom, no text, no logo, no new character, no pasted seams. One complete landscape animation frame."
+      }
+    ]
+  },
+  {
+    "group": "guidedkeys",
+    "prompts": [
+      {
+        "name": "a09_kisswide_00",
+        "refs": [
+          "work/pv_v15/references/seeds/f01350.png"
+        ],
+        "prompt": "Use case: precise-object-edit. Edit target: the supplied fully clothed anime couple scene. Both characters are adults. Clean the existing frame for animation: remove only the bottom Chinese subtitle, the thin rectangular frame seam along the bottom and right edge, and any faint duplicate ghost edges. Fill those areas with the same blue snowy park and their existing fully covered clothing. Preserve the tender closed-eye face pose, facial features, costume, hands, hair, proportions, scene composition and existing gentle anime illustration style precisely. No added romantic gesture, no extra skin, no clothing change. Full-canvas clean 16:9 landscape, same camera. No text, no frame border, no pasted rectangle. This is a registration-preserving clean master cel for subtle hair motion."
+      }
+    ]
+  }
+]

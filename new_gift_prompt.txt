@@ -1,0 +1,6 @@
+Use case: identity-preserve. Asset type: ONE registered full-canvas 16:9 anime PV in-between cel for a very subtle breathing motion. Edit target is the supplied complete Firefly gift close-up. Preserve its exact canvas, camera, entire background, color palette, fine painted linework, clothing design, all gold ornament shapes, gift box geometry, both hands and all fingers at their existing positions. Draw only a tiny natural next motion: the loose silver-mint hair ends at the upper left and right drift gently 6-9 pixels sideways, their roots stay attached; the free trailing mint ribbon shifts 5 pixels; sleeve ruffles around the wrists and one loose red bow tip respond to the breeze by 3-4 pixels. Both hands remain anatomically identical, holding the same intact box. Keep all rigid jewelry, box edges and hands fully registered; do not redraw the composition, do not change the gift angle, do not introduce new body or face. Repaint a complete unified frame, no partial patch, no text or logos, no border, no exposure change. This cel must match the existing master very closely and be usable between the master and return pose in a 30 fps animation.
+
+Mode: built-in GPT Image edit.
+Reference: assets/a12_gift_00.png
+Output: assets/a12_gift_01.png
+New calls in this continuation: 1

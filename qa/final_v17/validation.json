@@ -1,0 +1,104 @@
+{
+  "version": "V1.7",
+  "candidate_filename": "雪为何色_流萤角色替换_V1.7_分镜与运镜精修.mp4",
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "frame_count": 2764,
+    "duration": 92.133333,
+    "color_space": "bt709"
+  },
+  "inspection": "decoded MP4 side-by-side frame sheets",
+  "visual_review_completed": true,
+  "full_decode_without_errors": true,
+  "original_aac_packets_equal": true,
+  "aac_packet_sha256": "f34dd16208df15e9e5b741ec2a328939682704cb6157cc53d0354d902c903519",
+  "portrait_similarity_transform": {
+    "frames": 48,
+    "max_axis_scale_difference": 0.0,
+    "max_axes_dot_product": 0.0,
+    "open_to_closed_cut_frame": 1661,
+    "original_empty_floor_start_frame": 1691
+  },
+  "static_feet_preencode": {
+    "frames": 38,
+    "max_pixel_change": 0,
+    "region": [
+      0,
+      0,
+      1920,
+      900
+    ]
+  },
+  "static_feet_encoded": {
+    "frames": 38,
+    "max_estimated_translation_pixels": 0.0008346789753037527,
+    "mean_rgb_difference": 0.001047819197226904,
+    "method": "phase correlation and RGB differences on decoded art area; H.264 changes allowed"
+  },
+  "retained_v16_decoded_sample_comparison": {
+    "frames": [
+      0,
+      264,
+      265,
+      300,
+      342,
+      343,
+      508,
+      653,
+      675,
+      719,
+      724,
+      765,
+      812,
+      813,
+      983,
+      1020,
+      1062,
+      1110,
+      1170,
+      1290,
+      1303,
+      1342,
+      1390,
+      1417,
+      1442,
+      1490,
+      1605,
+      1637,
+      1710,
+      1950,
+      2027,
+      2038,
+      2048,
+      2061,
+      2218,
+      2240,
+      2271,
+      2592,
+      2763
+    ],
+    "mean_psnr_db": 48.60124451067447,
+    "min_psnr_db": 40.960625332230066,
+    "mean_absolute_rgb_error": 1.172156107328565,
+    "note": "all 2630 outside-patch frames enter the encoder unchanged; differences are generation-loss encoding"
+  },
+  "comparison_video": {
+    "frames": 314,
+    "seconds": 10.466666666666667,
+    "resolution": [
+      1920,
+      600
+    ],
+    "audio": "muted review",
+    "left": "original MP4",
+    "right": "decoded V1.7 MP4",
+    "half_speed_portrait": true
+  },
+  "visual_findings": {
+    "portrait": "Both the 108-frame preview and final MP4 decoded sheets reviewed; smooth entry without replicated border strips, original flash-cut timing, coherent two-expression painting style, rightward exit, no ghost portrait on empty optical transition",
+    "feet": "All 38 frames show the same art and framing; prior running/title retained through frame 1303",
+    "kiss": "Wide-to-close dissolve reviewed at frames 1417–1445; gentle optical overlap and continuous arrival at existing close-up"
+  }
+}

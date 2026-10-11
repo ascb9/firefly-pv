@@ -1,0 +1,6 @@
+numpy>=1.26
+Pillow>=10
+opencv-python-headless>=4.10
+scipy>=1.10
+# Only needed to regenerate the already supplied 3D Cocoon rotation sequence:
+moderngl>=5.10

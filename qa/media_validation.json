@@ -1,0 +1,46 @@
+{
+  "version": "V1.6",
+  "frame_count": 2764,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "video_duration_seconds": 92.133333,
+  "audio_duration_seconds": 92.136553,
+  "full_decode_without_errors": true,
+  "original_aac_packets_equal": true,
+  "aac_packet_sha256": "f34dd16208df15e9e5b741ec2a328939682704cb6157cc53d0354d902c903519",
+  "max_original_pts_difference_ms": 0.33333333334439885,
+  "color_matrix": "BT.709 with explicit RGB-to-YCbCr conversion",
+  "restored_v14_all_113_frames_comparison": {
+    "mean_psnr_db": 43.68811798095703,
+    "min_psnr_db": 42.022315979003906,
+    "mean_absolute_rgb_error": 1.3239808082580566
+  },
+  "original_running_all_194_frames_comparison": {
+    "mean_psnr_db": 38.37736511230469,
+    "min_psnr_db": 37.49997329711914,
+    "mean_absolute_rgb_error": 2.671990156173706
+  },
+  "retained_v15_sample_comparison": {
+    "mean_psnr_db": 45.24507141113281,
+    "min_psnr_db": 40.536861419677734,
+    "mean_absolute_rgb_error": 1.6603258848190308
+  },
+  "protected_static_regions": {
+    "park": {
+      "checked_frames": 80,
+      "max_preencode_pixel_change": 0
+    },
+    "hand": {
+      "checked_frames": 42,
+      "max_preencode_pixel_change": 0
+    }
+  },
+  "intro_right_to_left_then_pullback_verified": true,
+  "smile_left_to_right_then_shrink_and_exit_verified": true,
+  "original_audio_and_frame_clock_retained": true,
+  "new_imagegen_calls_this_revision": 1,
+  "visual_review": "targeted scenes reviewed as pre-encode and final encoded contact sheets"
+}
